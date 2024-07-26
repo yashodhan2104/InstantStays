@@ -1,0 +1,590 @@
+[
+    { 
+        "location": "Nagpur",
+        "image": "https://media.weddingz.in/images/7b5d60c3705a5a4e16b255eeb59fd286/maa-umiya-dham-dighori-nagpur.jpg",
+        "place_name": "Maa Umiya Dham",
+        "rating": "4.6",
+        "price": "₹1200 night", 
+        "link": "/mud"   
+    },
+    {
+        "location": "Nagpur",
+        "image": "https://images.unsplash.com/photo-1609151745346-c624e507baa2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2hyaSUyMHZpc2FsYWQlMjB2YW5payUyMHNhbWFqJTIwYmhhdmFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "place_name": "Shri Visalad Vanik Samaj Bhavan",
+        "rating": "4.5",  
+        "price": "₹900 night", 
+        "link": "/svvsb" 
+    }, 
+    {
+        "location": "Nagpur", 
+        "image": "https://yatradham.org/media/catalog/product/cache/1/thumbnail/f1c7696c61231c9bf5d4a8ab9a7e3c9f/j/a/jalaram_dormitory_nagpur_3_.jpg",
+        "place_name": "Hotel Jalaram Dormitory",
+        "rating": "4.4",
+        "price": "₹989 night",
+        "link":"/hjd"
+    },
+    {
+        "location": "Nagpur",
+        "image": "https://yatradham.org/media/catalog/product/cache/1/thumbnail/f1c7696c61231c9bf5d4a8ab9a7e3c9f/s/a/saurashtra_dasha_shrimali_vanik_sangh_nagpur_12_.jpg",
+        "place_name": "Shri Saurastra Dasha Shrimali Vanik Sangh",
+        "rating": "4.9",
+        "price": "₹1500 night" ,
+        "link":"ssdsvs"
+    },
+    {
+        "location": "Nagpur",
+        "image": "https://yatradham.org/media/catalog/product/cache/1/thumbnail/f1c7696c61231c9bf5d4a8ab9a7e3c9f/g/u/gujarat_hotel_nagpur_18_.jpg",
+        "place_name": "YD Stay",
+        "rating": "4.5",
+        "price": "₹1100 night"
+    },
+    {
+        "location": "Nagpur",
+        "image": "https://a0.muscache.com/im/pictures/860c847b-035a-4fe5-8aaf-f4a5c8436b05.jpg?im_w=1200",
+        "place_name": "Colorful Bliss",
+        "rating": "4.6",
+        "price": "₹959 night"
+    },
+    {
+        "location": "Nagpur",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-747071043065990104/original/4d618862-af00-4d76-95d8-ba88b6546b7b.png?im_w=1200",
+        "place_name": "Casa particular",
+        "rating": "4.8",
+        "price": "₹2600 night"
+    },
+    {
+        "location": "Nagpur",
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-777298479510186678/original/b77a1123-ab05-4bc8-b734-08484cf1880c.jpeg?im_w=720",
+        "place_name": "Avame Rooms",
+        "rating": "4.5",
+        "price": "₹1400 night"
+    },
+    {
+        "location": "Nagpur",
+        "image": "https://a0.muscache.com/im/pictures/c180c539-e845-41bc-9f47-1f4a88b63401.jpg?im_w=720",
+        "place_name": "Pathak guest house",
+        "rating": "3.9",
+        "price": "₹830 night"
+    },
+    {
+        "location": "Nagpur",
+        "image": "https://a0.muscache.com/im/pictures/e48eb42d-aa54-4e22-a3e6-ff8428021968.jpg?im_w=720",
+        "place_name": "SANJOG Home",
+        "rating": "4.2",
+        "price": "₹855 night"
+    },
+    {
+        "location": "Nagpur",
+        "image": "https://images.oyoroomscdn.com/uploads/hotel_image/183688/large/b4f4c83b3d5c227e.jpg",
+        "place_name": "Townhouse 1040 Hotel Md Star",
+        "rating": "5.0",
+        "price": "₹1075 night"
+    },
+    {
+        "location": "Nagpur",
+        "image": "https://images.oyoroomscdn.com/uploads/hotel_image/186785/large/8311a5e652c01cb8.jpg",
+        "place_name": "Hotel Sunshine Inn",
+        "rating": "4.1",
+        "price": "₹599 night"
+    },
+    {
+        "location": "Nagpur",
+        "image": "https://images.oyoroomscdn.com/uploads/hotel_image/58668/large/fc5d46407f42b560.JPG",
+        "place_name": "Silver Apartments",
+        "rating": "3.3",
+        "price": "₹666 night"
+    },
+    {
+        "location": "Nagpur",
+        "image": "https://images.oyoroomscdn.com/uploads/hotel_image/199736/large/8fd6b6dbfe10e0ad.jpg",
+        "place_name": "Gaurav Guest House",
+        "rating": "3.2",
+        "price": "₹590 night",
+        "link":"/ggh"
+    },
+    {
+        "location": "Nagpur",
+        "image": "https://images.oyoroomscdn.com/uploads/hotel_image/193393/large/88f0e2e6a05055c5.jpg",
+        "place_name": "Hotel The Silver Nest",
+        "rating": "3.2",
+        "price": "₹1725 night"
+    },
+
+
+
+
+
+    {
+        "location": "Amravati",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201610271306276076-b5b71bfc858911eca0090a58a9feac02.jpg",
+        "place_name": "JunJunwala Dharamshala",
+        "rating": "4.7",
+        "price": "₹400 night" 
+    },
+    {
+        "location": "Amravati",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPdsHp9DKRxw9OgL4RnTuZIYJ0ozU3UR5ipQKzt=w213-h160-k-no",
+        "place_name": "Baba Hardasram Dharamshala",
+        "rating": "4.0",
+        "price": "free!"
+    },
+    {
+        "location": "Amravati",
+        "image": "https://indiasthan.cdnpro.in/states/mh/amravati/pharmacy/sant-gadge-baba-amravati-university-326277.jpg",
+        "place_name": "Sant Satramdas Dharamshala",
+        "rating": "3.9",
+        "price": "₹ 464"
+    },
+    {
+        "location": "Amravati",
+        "image": "https://cdn1.goibibo.com/voy_ing/t_g/8237c6c865c511e9bf7a0242ac110002.jpg",
+        "place_name": "Nankani Dharamshala",
+        "rating": "3.8",
+        "price": "free!"
+    },
+    {
+        "location": "Amravati",
+        "image": "https://d35y6w71vgvcg1.cloudfront.net/media/2022/08/after-87-years-the-tricolor-was-hoisted-in-place-of-saffron-at-shri-gurudev-sevashram_730X365.jpg",
+        "place_name": "Shri Gurudev Seva Ashram",
+        "rating": "4.6",
+        "price": "free!"
+    },
+    {
+        "location": "Amravati",
+        "image": "https://content.jdmagicbox.com/comp/nagpur/l3/0712px712.x712.180411020807.c7l3/catalogue/gurdwara-guru-nanak-darbar-kamptee-road-nagpur-gurudwaras-oclreonemc.jpg?clr=",
+        "place_name": "Rajapeth Gurudwara",
+        "rating": "4.5",
+        "price": "free!"
+    },
+    {
+        "location": "Amravati",
+        "image": "https://www.venue.events/public/upload/hotelgallery/1966/Relish%20Residency%20-%20Amravati%2001.jpg",
+        "place_name": "Relish Residency",
+        "rating": "4.7",
+        "price": "₹ 550"
+    },
+    {
+        "location": "Amravati",
+        "image": "Later",
+        "place_name": "SBI Colony Mauli Recydency",
+        "rating": "4.1",
+        "price": "₹ 850"
+    },
+    {
+        "location": "Amravati",
+        "image": "https://mandalnews.com/wp-content/uploads/2020/10/ambadevi-amravati-mandal-1.jpg",
+        "place_name": "Shree Ekvira Devi Sansthan Bhakat Niwas",
+        "rating": "4.6",
+        "price": "free!"
+    },
+
+
+
+
+    {
+        "location": "Wardha",
+        "image": "https://content.jdmagicbox.com/comp/nagpur/s9/0712px712.x712.180227075254.e4s9/catalogue/gurdwara-sahib-teka-naka-nagpur-gurudwaras-5t0cik8koa.jpg",
+        "place_name": "Gursangat Gurudwara",
+        "rating": "4.4",
+        "price": "₹ 350"
+    },
+    {
+        "location": "Wardha",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hazur_Sahib.jpg/500px-Hazur_Sahib.jpg",
+        "place_name": "Panchayati Gurudwara",
+        "rating": "4.4",
+        "price": "₹ 350"
+    },
+    {
+        "location": "Wardha",
+        "image": "https://www.google.com/maps/uv?pb=!1s0x3bd47f6b6ef1e3dd:0xab38102108faaba7!3m1!7e115!4shttps://lh5.googleusercontent.com/p/AF1QipOB-MkjS3xMQiX3UJPq4kOg_ZoTa2EhL7NIEvNN%3Dw390-h262-n-k-no!5sdharamshala+in+wardha+-+Google+Search!15zQ2dJZ0FRPT0&imagekey=!1e10!2sAF1QipOB-MkjS3xMQiX3UJPq4kOg_ZoTa2EhL7NIEvNN&hl=en&sa=X&ved=2ahUKEwi_l9jd7oP-AhXPSGwGHS80BvwQ7ZgBKAB6BAgJEAI",
+        "place_name": "Bachcharaj Dharmshala",
+        "rating": "4.6",
+        "price": "₹ 300" 
+    },
+    {
+        "location": "Wardha",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipM9YJgab0IVqqwlLYyWKGX5AfkOga3FSQl6_UIG=w296-h202-n-k-no-v1",
+        "place_name": "Anand ashram bhojnalaya lodging & bording",
+        "rating": "3.9",
+        "price": "₹ 450"
+    },
+    {
+        "location": "Wardha",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Adi_Nivas%2C_Sewagram_Ashram.JPG",
+        "place_name": "Mahatma Gandhi Ashram",
+        "rating": "4.6",
+        "price": "₹ 500"
+    },
+ 
+
+
+ 
+    {
+        "location": "Pune",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lorVg3VPkTB90ctbk7T0kofYs7UCYwE4UvcVtuzgpnjU277XOUzrLZnNS-vsoil7Ebw&usqp=CAU",
+        "place_name": "Moraya Yatri Niwas",
+        "rating": "4.4", 
+        "price": "₹ 240"
+    },
+    {
+        "location": "Pune",
+        "image": "https://content3.jdmagicbox.com/comp/pune/r5/020pxx20.xx20.181228204936.y8r5/catalogue/janhavi-bhakt-niwas-markal-pune-lodging-services-y9bqapxqkw.jpg",
+        "place_name": "Janhavi Bhakt Niwas",
+        "rating": "4.8",
+        "price": "₹ 550" 
+    },
+    {
+        "location": "Pune",
+        "image": "https://map.sahapedia.org/admin/assets/images/2021051814563715PoW_70_Vasudew_Niwas_Image_02.jpg",
+        "place_name": "Shri Vasudev Niwas",
+        "rating": "4.8",
+        "price": "₹ 501"
+    },
+    {
+        "location": "Pune",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOrZatk-5YKnHsHunUsbUbUluf11L8MEeXvBhXc=w253-h189-k-no",
+        "place_name": "MAULI DARSHAN BHAKT NIWAS",
+        "rating": "4.2",
+        "price": "₹ 400"
+    },
+    {
+        "location": "Pune",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN3-lVt5CQWxcw4cA1nlYRMpdKg2vtTIm5dHvWS=w1080-h608-p-no-v0",   
+        "place_name": "Janki Niwas",
+        "rating": "3.9",
+        "price": "₹ 350"
+    },
+    {
+        "location": "Pune",
+        "image": "https://fastly.4sqi.net/img/general/558x200/VXIbvC96OX518WJ75YSeerMnZxEA3j4rp6sp4D5_5-Y.jpg",
+        "place_name": "Seth Morarji Gokul Das Dharamshala",
+        "rating": "4.8",
+        "price": "₹ 400"
+    },
+    {
+        "location": "Pune",
+        "image": "https://images.jdmagicbox.com/comp/dausa/n5/9999p1427.1427.191231204641.l3n5/catalogue/mittal-dharamshala-mehandipur-dausa-dharamshalas-lxstr3trn2.jpg?clr=",
+        "place_name": "Gurudham Dharamshala",
+        "rating": "4.9",
+        "price": "₹ 350"
+    },
+    {
+        "location": "Pune",
+        "image": "https://map.sahapedia.org/admin//assets/images/20210512041741-1382025008POW_99_Shri_Dadawadi_Shwetambar_Jain_Mandir_banner.jpg?__imr__=bannerArticle",
+        "place_name": "Shree Shwetambar Jain Temple Dadawadi",
+        "rating": "4.6",
+        "price": "₹ 450"
+    },
+    {
+        "location": "Pune",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOot0pRo2l_QY5HtRNhgXQVz-x_d_3c8nrxDH9L=w141-h118-n-k-no-nu",
+        "place_name": "Anand Darbar Dattanagar Sthanak",
+        "rating": "4.7",
+        "price": "₹ 300"
+    },
+    {
+        "location": "Pune",
+        "image": "https://www.stayforyou.com/wp-content/uploads/2017/08/IMG-20170817-WA0012.jpg",
+        "place_name": "Sant Gadge Maharaj Akul Dharamshala",
+        "rating": "4.6",
+        "price": "₹ 100"
+    },
+    {
+        "location": "Pune",
+        "image": "https://4.bp.blogspot.com/-SyBvGEqon6M/U9IiKypUehI/AAAAAAAAfgM/090rDYkKoDI/s1600/IMG-20140725-WA0008-735014.jpg",
+        "place_name": "Nakoda Bhairav Dharamshala",
+        "rating": "4.6",
+        "price": "₹ 250"
+    },
+    {
+        "location": "Pune",
+        "image": "https://content.jdmagicbox.com/comp/pune/x4/020pxx20.xx20.180831200617.a4x4/catalogue/manmohan-parshwanath-jain-swetambar-mandir-bhawani-peth-pune-jain-temples-kuqrhy4a03.jpg",
+        "place_name": "Manmohan Parshwanath Dharmashala",
+        "rating": "4.7",
+        "price": "₹ 550"
+    },
+    {
+        "location": "Pune",
+        "image": "https://punetourism.co.in/images/places-to-visit/headers/gurudwara-guru-nanak-darbar-pune-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+        "place_name": "Gurudwara Guru Nanak Darbar Pune Camp",
+        "rating": "4.6",
+        "price": "₹ 600"
+    },
+    {
+        "location": "Pune",
+        "image": "https://images.jdmagicbox.com/comp/pune/b8/020pxx20.xx20.191120212724.b4b8/catalogue/gurudwara-guru-singh-sabha-ganesh-peth-pune-gurudwaras-2lnan7vhil.jpg?clr=",
+        "place_name": "Gurdwara Singh Sabha, Aundh",
+        "rating": "4.5",
+        "price": "₹ 200"
+    },
+    {
+        "location": "Pune",
+        "image": "https://im.whatshot.in/img/2020/Jul/gurudwara-guru-nanak-darbar-1595216696.jpg",
+        "place_name": "Gurudwara Guru Singh Sabha",
+        "rating": "4.6",
+        "price": "₹ 250"
+    },
+    {
+        "location": "Pune",
+        "image": "https://images.jdmagicbox.com/comp/pune/c4/020pxx20.xx20.180326175259.r2c4/catalogue/gurudwara-dighi-camp-kalas-pune-gurudwaras-a9kjxj03p3.jpg?clr=",
+        "place_name": "Gurudwara Dasmesh Darbar",
+        "rating": "4.4",
+        "price": "₹ 325"
+    },
+    {
+        "location": "Pune",
+        "image": "https://lh6.googleusercontent.com/-qZGorzYBaYo/WM6qE-D0eSI/AAAAAAAAvjc/9i_yg9F2c38A1H6FCrzs2c6wMmhvFMlPwCLIB/photo.jpg",
+        "place_name": "Gurudwara Sahib Dighi Camp",
+        "rating": "4.6",
+        "price": "₹ 250" 
+    },
+    {
+        "location": "Pune",
+        "image": "https://images.jdmagicbox.com/comp/pune/d4/020pxx20.xx20.220317041154.e2d4/catalogue/military-gurudwara-yerawada-pune-gurudwaras-d66ke8vfjv.jpg",
+        "place_name": "Shri Guru Singh Sabha, Khadki",
+        "rating": "4.7",
+        "price": "₹ 250"
+    },
+    {
+        "location": "Pune",
+        "image": "https://www.india-tours.com/images/festivals/gurudwara-nanaksar-jagraon/gurudwara-nanaksar1.jpg",
+        "place_name": "Gurudwara Nanaksar",
+        "rating": "4.6",
+        "price": "₹ 150"
+    },
+
+
+
+
+    {
+        "location": "Tuljapur",
+        "image": "https://cdn1.goibibo.com/voy_ing/t_g/668794b8b58911e8adbf02daa8a663de.jpg",
+        "place_name": "Ambai Bhakta Niwas",
+        "rating": "4.5",
+        "price": "₹ 500"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "https://content3.jdmagicbox.com/comp/osmanabad/j1/9999p2472.2472.180405185205.z4j1/catalogue/omkar-bhakt-niwas-tuljapur-osmanabad-lodging-services-e2y5t.jpg",
+        "place_name": "Omkar Bhakta Nivas",
+        "rating": "4.2",
+        "price": "₹ 784"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "https://content.jdmagicbox.com/comp/osmanabad/y5/9999p2472.2472.221015164026.q5y5/catalogue/rajgad-bhakt-niwas-tuljapur-tuljapur-lodging-services-f10n0tsd6u.jpg",
+        "place_name": "Rajgad Bhakta Niwas",
+        "rating": "4.3",
+        "price": "₹ 545"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "https://www.lasaneguruji.com/media/bhakta/bhakta-niwas-tuljapur-2.jpg",
+        "place_name": "Lasane Guruji Bhakta Niwas",
+        "rating": "4.4",
+        "price": "₹ 450"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPt2J_ymUA4PM8Vfwe9t4v9jGgmP8Q3QnP0oiPs=w296-h202-n-k-no-v1",
+        "place_name": "Tuljabhavani Bhakta Niwas",
+        "rating": "4.3",
+        "price": "₹ 350"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "https://www.padmashalidharmashala.com/images/mandhir.png",
+        "place_name": "Padmashali Dharmashala",
+        "rating": "4.5",
+        "price": "₹ 250"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "",
+        "place_name": "JAMNABAI CHAGANLAL YADAV AHIR DHARAMSHALA",
+        "rating": "4.4",
+        "price": "₹ 450"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "/Images/bhavsar_bhavan.png",
+        "place_name": "BHAVSAR BHAVAN",
+        "rating": "3.7",
+        "price": "₹ 666"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "https://cdn1.goibibo.com/voy_ing/t_g/d0eebf38979f11ec8b240a58a9feac02.jpg", 
+        "place_name": "Lohia Mangal Dharamshala", 
+        "rating": "4.5", 
+        "price": "₹ 450"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "https://content3.jdmagicbox.com/comp/osmanabad/x5/9999p2472.2472.130505103116.u8x5/catalogue/jagdambadevi-yatri-niwas-tuljapur-osmanabad-lodging-services-1icv48w.jpg", 
+        "place_name": "Jagdambadevi Yatri Niwas", 
+        "rating": "3.9", 
+        "price": "₹ 800"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "https://cdn1.goibibo.com/voy_ing/t_g/07b0a0a6747011ed83d10a58a9feac02.jpg", 
+        "place_name": "Bhavani Chatra Yatri Niwas", 
+        "rating": "4.0", 
+        "price": "₹ 850"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "https://content.jdmagicbox.com/comp/osmanabad/w7/9999p2472.2472.170428143353.l7w7/catalogue/heera-yatri-nivas-lohiya-nagar-tuljapur-osmanabad-hotels-457mwla-250.jpg", 
+        "place_name": "Nath Yatri Niwas", 
+        "rating": "4.3", 
+        "price": "₹ 400"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "", 
+        "place_name": "Shri Sahasrarjun Vishramdham", 
+        "rating": "4.5", 
+        "price": "₹ 600"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "https://booking.tuljabhavanibhaktniwas.com/public/uploads/updaterooqmhead_5.jpg", 
+        "place_name": "Godawari Bhakt Niwas", 
+        "rating": "4.4", 
+        "price": "₹ 600"
+    },
+    {
+        "location": "Tuljapur",
+        "image": "https://content.jdmagicbox.com/comp/tuljapur/v1/9999p2472.2472.190815173914.e5v1/catalogue/bita-bhakt-niwas-tuljapur-tuljapur-guest-house-w1ryeyj8mf.jpg", 
+        "place_name": "Bita Bhakt Niwas", 
+        "rating": "4.8", 
+        "price": "₹ 800"
+    } ,
+
+
+
+
+    {
+        "location": "Kolhapur",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMjbalSBYcsJn2eBzHc4o12o7hQJHPTyZJVtARj=w480-h360-n-k-rw-no-v1", 
+        "place_name": "Raigad Lodging & Dormitory", 
+        "rating": "4.4", 
+        "price": "₹ 250"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://cdn1.goibibo.com/voy_mmt/t_srp/htl-imgs/201807211236423428-8ab1e4f637db11ec822d0a58a9feac02.jpg", 
+        "place_name": "Balaji dormiitory", 
+        "rating": "4.8", 
+        "price": "₹ 250"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://content.jdmagicbox.com/comp/kolhapur/v4/0231px231.x231.190525125548.s5v4/catalogue/naik-dormitory-dabholkar-corner-kolhapur-dormitory-services-oc0h4v24in.jpg", 
+        "place_name": "Naik Dormitory", 
+        "rating": "4.6", 
+        "price": "₹ 300"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/fd/5c/d1/wadikar-bhakta-niwas.jpg?w=700&h=-1&s=1", 
+        "place_name": "Wadikar Bhakta Niwas", 
+        "rating": "4.3", 
+        "price": "₹ 800"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://panel.mycaste.in/assets/uploads/dharamshala/67eea-38.png", 
+        "place_name": "Marudar Bhavan Jain Dharamshala", 
+        "rating": "4.6", 
+        "price": "₹ 400"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://yatradham.org/media/catalog/product/cache/1/thumbnail/f1c7696c61231c9bf5d4a8ab9a7e3c9f/k/o/kolhapur_shri_laxmisen_jain_math_dharamshala.jpg", 
+        "place_name": "Shri Laxmisen Jain Math Dharamshala", 
+        "rating": "4.7", 
+        "price": "₹ 300"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://yatradham.org/media/catalog/product/cache/1/thumbnail/f1c7696c61231c9bf5d4a8ab9a7e3c9f/i/m/img_1658.jpg", 
+        "place_name": "Hindu Dharma Mandal Sansthan Dharamshala", 
+        "rating": "4.8",  
+        "price": "₹ 200"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://mahalaxmidharmashala.in/images/center-collumimg.jpg", 
+        "place_name": "Shri Mahalaxmi Dharmashala", 
+        "rating": "4.1", 
+        "price": "₹ 700"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://content.jdmagicbox.com/comp/kolhapur/r9/0231px231.x231.190215204358.n4r9/catalogue/oyo-19997-hotel-panchalee-kolhapur-hotels-bgnc24guhz.jpg?clr=#493e1d?fit=around%7C270%3A130&crop=270%3A130%3B%2A%2C%2A", 
+        "place_name": "Ruikar Dharmshala", 
+        "rating": "4.0", 
+        "price": "₹ 400"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://content3.jdmagicbox.com/comp/kolhapur/n8/0231px231.x231.180702071203.m4n8/catalogue/yatri-nivas-wadi-ratnagiri-kolhapur-hotels-u6tw1kg7j4.jpg", 
+        "place_name": "Dharamshala Bhaiya Pardeshi", 
+        "rating": "4.6", 
+        "price": "₹ 601"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://content3.jdmagicbox.com/comp/kolhapur/x4/0231px231.x231.170316083135.u2x4/catalogue/om-shree-yatri-nivas-kolhapur-railway-station-kolhapur-hotels-rs-1001-to-rs-2000--vkrj4knmac.jpg", 
+        "place_name": "Om Shri Yatri Nivas", 
+        "rating": "4.5", 
+        "price": "₹ 747"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/385766825.jpg?k=8f0f0bf7f3bc5e114d30471ace99da3a24c235dc11ba40e16112eb8d14ed8d1e&o=", 
+        "place_name": "Balkrishna Haveli Yatri Niwas", 
+        "rating": "4.4", 
+        "price": "₹ 500"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://r1imghtlak.mmtcdn.com/ac2b3d8478b011e6b2dc0022195573b9.jpg?&output-quality=75&downsize=910:612&crop=910:612;5,0&output-format=jpg", 
+        "place_name": "Rajabal Yatri Niwas", 
+        "rating": "4.5", 
+        "price": "₹ 840"
+    }, 
+    {
+        "location": "Kolhapur", 
+        "image": "https://gos3.ibcdn.com/5dd8cee4aad911eabf0b0242ac110003.jfif", 
+        "place_name": "Ambika Yatri Niwas", 
+        "rating": "3.5", 
+        "price": "₹ 500"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpgYxklA6WgpylEc4kZyvJVcjUr_IgqGPjBl9qzj6BQeZ7We29G79-HsFK8auS0ssDk0g&usqp=CAU", 
+        "place_name": "Sahara Yatri Niwas", 
+        "rating": "3.6", 
+        "price": "₹ 450"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/174236111.jpg?k=8a78899b73c4f91236d6a7a7260f3c14176013b33a74f229cf13abf41c155e8c&o=&hp=1", 
+        "place_name": "Solanki Guest House", 
+        "rating": "4.4", 
+        "price": "₹ 600"
+    },
+    {
+        "location": "Kolhapur",
+        "image": "https://cdn1.goibibo.com/voy_ing/t_g/96c21b58e9f211eb964d0242ac110002.jpg?downsize=431:230", 
+        "place_name": "Shri Niwas, Family Rooms for Stay", 
+        "rating": "4.3", 
+        "price": "₹ 400"
+    }
+    
+    
+]
